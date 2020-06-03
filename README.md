@@ -1,2 +1,2 @@
 # kpp_lr2
-map.jpg
+{map.jpg}
