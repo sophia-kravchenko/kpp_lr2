@@ -1,2 +1,2 @@
 # kpp_lr2
-{map.jpg}
+(https://github.com/sophia-kravchenko/kpp_lr2/raw/master/map.jpg)
